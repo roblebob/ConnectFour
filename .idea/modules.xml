@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_Four.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/From A to B/Connect_Four.Topics-Getting_substrings-From_A_to_B.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/The last of u/Connect_Four.Topics-Getting_substrings-The_last_of_u.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Theory/Connect_Four.Topics-Getting_substrings-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Void/Connect_Four.Topics-Getting_substrings-Void.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Connect_Four.util.test.iml" />
+    </modules>
+  </component>
+</project>
