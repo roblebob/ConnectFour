@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="8" />
+      <module name="Connect_Four.Connect_Four-task.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Bank_account.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Class_members_to_initialize_objects.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Correct_declaration.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Find_the_error.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-How_many_primary_constructors.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Implicit_constructor.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Init_usage.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Pets.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Point2D.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Reddit.main" target="8" />
+      <module name="Connect_Four.Topics-Constructors-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Log_events.main" target="8" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Proper_tools.main" target="8" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Declaring_classes-Composition.main" target="8" />
+      <module name="Connect_Four.Topics-Declaring_classes-Operations_on_var_objects.main" target="8" />
+      <module name="Connect_Four.Topics-Declaring_classes-Possible_properties_types.main" target="8" />
+      <module name="Connect_Four.Topics-Declaring_classes-Pseudo-constructor.main" target="8" />
+      <module name="Connect_Four.Topics-Declaring_classes-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Default_arguments-Declarations.main" target="8" />
+      <module name="Connect_Four.Topics-Default_arguments-Print_Username.main" target="8" />
+      <module name="Connect_Four.Topics-Default_arguments-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Functional_decomposition-Calculator_with_four_functions.main" target="8" />
+      <module name="Connect_Four.Topics-Functional_decomposition-Create_a_full_name.main" target="8" />
+      <module name="Connect_Four.Topics-Functional_decomposition-Decompose_a_math_function.main" target="8" />
+      <module name="Connect_Four.Topics-Functional_decomposition-Password_decomposition.main" target="8" />
+      <module name="Connect_Four.Topics-Functional_decomposition-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Getting_substrings-From_A_to_B.main" target="8" />
+      <module name="Connect_Four.Topics-Getting_substrings-The_last_of_u.main" target="8" />
+      <module name="Connect_Four.Topics-Getting_substrings-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Getting_substrings-Void.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Car_price.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Correct_invocations.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Deposit.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Find_the_correct_invocations.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Invocations.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Named_arguments-URL.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_output.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_value.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_value__1_.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Double_characters.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Find_the_first_occurrence_of_the_word__the.main" target="8" />
+      <module name="Connect_Four.Topics-Processing_strings-Theory.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Can_you.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Creating_regexes.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Different_colo_u_rs.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Help_the_teacher.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Matching_pattern.main" target="8" />
+      <module name="Connect_Four.Topics-Regexps-Theory.main" target="8" />
+      <module name="Connect_Four.util.main" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

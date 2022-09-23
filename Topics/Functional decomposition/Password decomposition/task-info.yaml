@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun passwordLessThan5(): String {
+        // write here
+    }
+
+    fun passwordLongerThan5(password: String) {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20632#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 20 Sep 2022 08:35:37 UTC
+record: -1

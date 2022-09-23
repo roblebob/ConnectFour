@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Kot ,olleH
+- text: Hello, Kotlin
+- text: niltoK ,olleH
+- text: iltoK ,olleH
+- text: niltoK ,olle
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9029#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 15 Sep 2022 10:41:37 UTC
+record: -1
+selected_options:
+- 4
+local_check: false

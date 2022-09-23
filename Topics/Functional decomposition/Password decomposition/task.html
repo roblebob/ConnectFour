@@ -1,0 +1,17 @@
+<h2>Password decomposition</h2>
+<html><body><p>You have the following code:</p>
+<pre><code class="language-kotlin">fun main() {
+    var password = readln()
+    if (password.length &lt; 5) {
+        println("Your password should be longer than five characters, please write a new password")
+        val newPassword = readln()
+    } else {
+        println("Your password is correct, please enter your name")
+        val name = readln()
+        println("Congratulations! Password for $name is $password")
+    }
+}</code></pre>
+<p>Decompose the program to the functions <code class="language-kotlin">passwordLessThan5()</code> and <code class="language-kotlin">passwordLongerThan5(password: String)</code>. In your new functions, replace <code class="language-kotlin">readln()</code> with a random password longer than five characters in <code class="language-kotlin">newPassword</code> and with <code class="language-kotlin">John</code> in <code class="language-kotlin">name</code>. Don't change <code class="language-kotlin">println()</code> in your functions!</p></body></html><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+<b>Caution</b><br><br>
+You may see errors in your code or execution results due to missing context. Don’t worry about it, just write the solution and press Check.
+<br><br>
